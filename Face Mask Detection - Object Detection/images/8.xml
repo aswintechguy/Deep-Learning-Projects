@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\Aswin\notebooks\detecto\images\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>220</ymin>
+			<xmax>531</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
