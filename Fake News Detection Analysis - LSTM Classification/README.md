@@ -16,6 +16,7 @@ Develop a Deep learning program to identify when an article might be fake news.
     - 0: reliable
 
 **Download link:** https://www.kaggle.com/c/fake-news/data
+
 **Glove Embedding link:** https://www.kaggle.com/anindya2906/glove6b?select=glove.6B.100d.txt
 
 # Libraries
