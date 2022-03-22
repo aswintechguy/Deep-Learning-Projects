@@ -1,4 +1,4 @@
-# Gender and Age Prediction - Image MultiClassification - CNN
+# Gender and Age Prediction - Image Classification - CNN
 
 **Complete Video Tutorial:** https://youtu.be/vEJzsGXrB70
 
