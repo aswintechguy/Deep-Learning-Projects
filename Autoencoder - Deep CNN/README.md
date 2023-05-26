@@ -18,7 +18,7 @@ Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct In
 
 # Libraries
 
-- numpy
+- numpy ,
 - matplotlib
 - keras
 - tensorflow
