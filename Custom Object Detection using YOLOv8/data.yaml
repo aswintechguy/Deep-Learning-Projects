@@ -1,0 +1,5 @@
+train: train_images
+val: test_images
+
+nc: 1 
+names: ['car']
