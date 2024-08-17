@@ -1,6 +1,6 @@
 # Image Segmentation Tutorial - Unet - Pet Dataset
 
-**Complete Video Tutorial:** https://youtu.be/ceUvzxgyop0
+**Complete Video Tutorial:** https://youtu.be/ceUvzxgyop0 (THIS LINK ISN'T WORKING!)
 
 **Dataset Download Link:** https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset
 
